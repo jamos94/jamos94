@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @jamos94
-- 👀 I’m interested in software development using Java &/or C++
-- 🌱 I’m currently learning computer graphics using OpenGL
+- 👋 Hi, I’m Jessica. 
+- A Computer Science student who graduates from SNHU with a BS in August 2022. 
+- 👀 I’m interested in Junior Developer Position in C++ or Java. 
+- My preferred IDE is Visual Studio. I also have experience using VSC and Eclipse.
+- 🌱 A skill I recently learned is using OpenGL to create computer graphic in C++.
+- I can be contacted with questions regarding any of my repositories at my email.
+-  amosjessica@icloud.com
 
 
 <!---
