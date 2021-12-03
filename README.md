@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jessica. 
 - A Computer Science student who graduates from SNHU with a BS in August 2022. 
-- 👀 I’m interested in Junior Developer Position in C++ or Java. 
+- 👀 I’m interested in Intern Developer Position in C++ or Java. 
 - My preferred IDE is Visual Studio. I also have experience using VSC and Eclipse.
 - 🌱 A skill I recently learned is using OpenGL to create computer graphic in C++.
 - I can be contacted with questions regarding any of my repositories at my email.
